@@ -62,12 +62,6 @@ The codebase is modular, separating hardware drivers from game logic:
 3.  Build the project (**F7**).
 4.  Flash to the FRDM-KL05Z board using the on-board OpenSDA programmer.
 
----
-
-## 📄 Documentation
-
-For detailed flowcharts, electrical diagrams, and logic description, please refer to the full documentation:
-[📥 Final_Documentation_ang.pdf](Final_Documentation_ang.pdf)
 
 ---
 
